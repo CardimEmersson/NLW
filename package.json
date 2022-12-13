@@ -20,7 +20,7 @@
   },
   "homepage": "https://github.com/CardimEmersson/NLW#readme",
   "dependencies": {
-    "express": "^4.17.1",
+    "express": "^4.17.3",
     "nunjucks": "^3.2.3",
     "sqlite3": "^5.0.2",
     "tar": "^4.4.18",
